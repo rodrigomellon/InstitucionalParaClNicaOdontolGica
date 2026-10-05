@@ -1,0 +1,18 @@
+{
+  "title": "NOSSA CLINICA",
+  "description": "Showcases a trusted dental clinic's services, team, and patient testimonials with a mobile-first design featuring easy WhatsApp contact and emergency info.",
+  "language": "pt-br",
+  "robots": {
+    "index": false
+  },
+  "icons": {
+    "icon": "/.figma/make/favicon.png"
+  },
+  "analytics": {
+    "googleAnalyticsId": "G-RM6NG9H4D7"
+  },
+  "accessibility": {
+    "addBypassLinks": false,
+    "ignoreReducedMotion": false
+  }
+}
