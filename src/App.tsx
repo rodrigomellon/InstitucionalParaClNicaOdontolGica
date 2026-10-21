@@ -117,7 +117,7 @@ const SPECIALTIES = [
   { emoji: '🔬', name: 'Endodontia', desc: 'Tratamento de canal com precisão e conforto máximo para o paciente.' },
   { emoji: '👶', name: 'Odontopediatria', desc: 'Cuidado especializado e acolhedor para que crianças amem ir ao dentista.' },
   { emoji: '✨', name: 'Estética Dental', desc: 'Facetas, lentes de contato dental e clareamento profissional.' },
-  { emoji: '💉', name: 'Harmonização Facial', desc: 'Botox, preenchimento labial e bioremodelação para um rosto mais jovem.' },
+  { emoji: '💉', name: 'Harmonização Facial', desc: 'Hamonização facial e rejuvenescimento para um rosto mais jovem.' },
   { emoji: '🩺', name: 'Cirurgia Oral', desc: 'Extrações complexas e cirurgias realizadas com total segurança e precisão.' },
   { emoji: '🛡️', name: 'Periodontia', desc: 'Tratamento de gengivas e prevenção de doenças periodontais.' },
 ];
@@ -174,7 +174,7 @@ const BA_CASES = [
   },
   {
     label: 'Harmonização Facial',
-    desc: 'Botox, bioestimuladores, preenchedores, fios e skincare para um rejuvenescimento natural.',
+    desc: 'Bioestimuladores, Preenchedores, fios e skincare para um rejuvenescimento natural.',
     before: imgHarmonizacaoAntes,
     after: imgHarmonizacaoDepois,
   },
